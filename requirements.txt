@@ -1,0 +1,4 @@
+streamlit
+groq
+gTTS
+streamlit-mic-recorder
